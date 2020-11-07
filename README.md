@@ -1,6 +1,6 @@
-### Hi ProfilebyStander, I'm Sunil from the sweetspot of the Github Server ❤
+<h2 align="center">### Hi ProfilebyStander, I'm Sunil from the sweetspot of the Github Server ❤</h2>
 
-[<img src="https://github.com/SunilLamichhane/SunilLamichhane/blob/main/Icon%20Sources/N2j1.gif" alt="Welocme Screen" width="350" />](https://github.com/SunilLamichhane/SunilLamichhane/blob/main/Icon%20Sources/N2j1.gif)
+<p><img align="center" src="https://github.com/SunilLamichhane/SunilLamichhane/blob/main/Icon%20Sources/N2j1.gif" alt="Welcome Screen" width="390" /></p>
 
 
 <h3 align="center">Student! Learner!! CodeGeek!!!</h3>
