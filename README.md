@@ -1,54 +1,32 @@
-[<img src="https://github.com/SunilLamichhane/SunilLamichhane/blob/main/Icon%20Sources/PicsArt_11-06-08.57.45.jpg" alt="Welcome Photo" width="854" />][facebook]
 ### Hi ProfilebyStander, I'm Sunil from the sweetspot of the Github Server ❤
-
 
 [<img src="https://github.com/SunilLamichhane/SunilLamichhane/blob/main/Icon%20Sources/N2j1.gif" alt="Welocme Screen" width="350" />](https://github.com/SunilLamichhane/SunilLamichhane/blob/main/Icon%20Sources/N2j1.gif)
 
 
-## I'm a Student, Learner and CodeGeek🤣!!!
+<h3 align="center">Student! Learner!! CodeGeek!!!</h3>
 
-- 🔭 I just learned Basic to Intermediate C 
-- 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals:Learn To  Contribute more to Open Source projects
-- 🥅 2020 Goals:Learn To  Web-Development
-- ⚡ Fun fact: I love to type really fast(200 WPM) and I'm Working for it😊
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sunillamichhane&label=Profile%20views&color=0e75b6&style=flat" alt="sunillamichhane" /> </p>
 
-### Music On My Head🎧
-[<img src="https://github.com/SunilLamichhane/SunilLamichhane/blob/main/Icon%20Sources/giphy.gif" alt="Song I Love" width="100px" />](https://www.youtube.com/watch?v=zUPP_u1K9cE&ab_channel=ApurvaTamang)
+- 🌱 I’m currently learning **Python**
 
+- 👯 I’m looking to collaborate on **other programmers**
 
-### Connect with me:
+- 👨‍💻 All of my projects are available at [my Github Repositories](my Github Repositories)
 
+- 💬 Ask me about **anything I can do**
 
-[<img align="left" alt="Sunil On Facebook" width="45px" src="https://github.com/SunilLamichhane/SunilLamichhane/blob/main/Icon%20Sources/21001132681580961643.svg" />][facebook]
+- 📫 Reach Me AT **sunillamichhanestuffs@gmail.com**
 
-<br />
+- ⚡ Fun fact **I Love Fast Typing**
 
-### Languages and Tools:
-[<img align="left" alt="Python Programming" width="50px" src="https://github.com/SunilLamichhane/SunilLamichhane/blob/main/Icon%20Sources/Python-logo-notext.svg" />]
-[<img align="left" alt="Visual Studio Code" width="50px" src="https://github.com/SunilLamichhane/SunilLamichhane/blob/main/Icon%20Sources/icons8-visual-studio-code-2019-50.png" />]
-[<img align="left" alt="C Programming" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />]
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/sunillamichhaneofficial" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sunillamichhaneofficial" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunillamichhane&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="sunillamichhane" /></p>
 
-
-<br />
-<br />
-
----
-
-### 📺 Latest Projects I Made
-[<img align="middle" alt="Projects" width="100px" src="https://github.com/SunilLamichhane/SunilLamichhane/blob/main/Icon%20Sources/172-1725116_school-projects-cliparts-school-project-clip-art-png.png" />](https://github.com/SunilLamichhane)
-
-
-
-
-
-
-
-
-
-
-
-[facebook]: https://www.facebook.com/sunillamichhaneofficial/
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunillamichhane&show_icons=true&theme=dark&locale=en" alt="sunillamichhane" /></p>
