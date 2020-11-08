@@ -1,13 +1,10 @@
-<h2 align="center"> Hi Seekers, I'm Sunil from the sweetspot of the Github Server ❤</h2>
+<h2 align="center"> Hello People, from the sweetspot of the Github Server ❤</h2>
 <img src="https://github.com/SunilLamichhane/SunilLamichhane/blob/main/Icon%20Sources/PicsArt_11-07-07.46.58.jpg" alt="Intro Photo" />
 
 
 
 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sunillamichhane&label=Profile%20views&color=0e75b6&style=flat" alt="sunillamichhane" /> </p>
-<h2  align="center"><i>Student! Learner!! CodeGeek!!!<i/></h3>
+<h2  align="center"><i>Student! Learner!! CodeGeek!!!</i></h3>
   <img align="right" src="https://github.com/SunilLamichhane/SunilLamichhane/blob/main/Icon%20Sources/N2j1.gif" alt="Welcome Screen" width="390" />
 
 - 🌱 I’m currently learning **Python**
