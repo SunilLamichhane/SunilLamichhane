@@ -1,17 +1,18 @@
-<h2 align="center"> Hi ProfilebyStander, I'm Sunil from the sweetspot of the Github Server ❤</h2>
+<h2 align="center"> Hi Seekers, I'm Sunil from the sweetspot of the Github Server ❤</h2>
+<img src="https://github.com/SunilLamichhane/SunilLamichhane/blob/main/Icon%20Sources/PicsArt_11-07-07.46.58.jpg" alt="Intro Photo" />
 
-<p><img align="center" src="https://github.com/SunilLamichhane/SunilLamichhane/blob/main/Icon%20Sources/N2j1.gif" alt="Welcome Screen" width="390" /></p>
 
 
-<h3 align="center">Student! Learner!! CodeGeek!!!</h3>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunillamichhane&label=Profile%20views&color=0e75b6&style=flat" alt="sunillamichhane" /> </p>
+<h2  align="center"><i>Student! Learner!! CodeGeek!!!<i/></h3>
+  <img align="right" src="https://github.com/SunilLamichhane/SunilLamichhane/blob/main/Icon%20Sources/N2j1.gif" alt="Welcome Screen" width="390" />
 
 - 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on **other programmers**
-
-- 👨‍💻 All of my projects are available at [my Github Repositories](my Github Repositories)
 
 - 💬 Ask me about **anything I can do**
 
