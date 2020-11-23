@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **anything I can do**
 
-- 📫 Reach Me AT **sunillamichhanestuffs@gmail.com**
+- 📫 Reach Me at **sunillamichhanestuffs@gmail.com**
 
 - ⚡ Fun fact **I Love Fast Typing**
 
