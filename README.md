@@ -1,4 +1,4 @@
-<h2 align="center"> Hello People, from the sweetspot of the Github Server ❤</h2>
+<h2 align="center"><b>Hello People, from the sweetspot of the Github Server ❤<b/></h2>
 <img src="https://github.com/SunilLamichhane/SunilLamichhane/blob/main/Icon%20Sources/PicsArt_11-07-07.46.58.jpg" alt="Intro Photo" />
 
 
