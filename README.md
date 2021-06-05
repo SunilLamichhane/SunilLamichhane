@@ -13,13 +13,14 @@
 
 - 💬 Ask me about **anything I can do**
 
-- 📫 Reach Me at **sunillamichhanestuffs@gmail.com**
+- 📫 Reach Me at **sunillamichhanesurfs@gmail.com**
 
 - ⚡ Fun fact **I Love Fast Typing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/sunillamichhaneofficial" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sunillamichhaneofficial" height="30" width="40" /></a>
+<a href="https://fb.com/sunillamichhaneofficial" target="blank"><img align="center" src="https://img.icons8.com/bubbles/2x/facebook-new.png" alt="facebook link"  width="40" /></a>
+<a href="https://twitter.com/SunilLa56221972" target="blank"><img align="center" src="https://png.pngtree.com/element_our/sm/20180524/sm_5b072f1c21cb2.jpg"  width="40" alt="twitter link" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
